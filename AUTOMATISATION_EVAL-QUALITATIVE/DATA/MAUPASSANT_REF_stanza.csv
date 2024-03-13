@@ -1,0 +1,142 @@
+mot;frequence;LOC
+Afrique;1;VP
+Ajaccio;1;VP
+Albertacce;1;VP
+Allemagne;1;VP
+Amérique;1;VP
+Athènes;1;VP
+Auvergne;1;VP
+Bastia;1;VP
+Beuzeville;1;VP
+Bolbec;1;VP
+Cany;1;VP
+Cargèse;1;VP
+ch\u00e2teau de la Vrillette;1;VP
+Chine;1;VP
+collège du Havre;1;VP
+Cologne;1;VP
+Damas;1;VP
+Florence;1;VP
+France;1;VP
+Gênes;1;VP
+golfe de Sagone;1;VP
+Grèce;1;VP
+Hollande;1;VP
+Italie;1;VP
+Italie\u2026;1;VP
+l'Afrique;1;VP
+L'Amérique;1;VP
+La Corse;1;VP
+la Corse;1;VP
+la Seine;1;VP
+la Vrillette;1;VP
+Livourne;1;VP
+Madère;1;VP
+mont Riboudet;1;VP
+Montivilliers;1;VP
+Naples;1;VP
+Niolo;1;VP
+Notre-Dame du Gros-Ventre;1;VP
+Perret;1;VP
+Piana;1;VP
+Provence;1;VP
+Reminil;1;VP
+rue du Havre;1;VP
+Sèvres;1;VP
+Saint-Léonard;1;VP
+Sainte-Hélène;1;VP
+Suisse;1;VP
+Touraine;1;VP
+Trois-Mares;1;VP
+Verneuil;1;VP
+Versailles;1;VP
+Vrillette;1;VP
+Mars;1;TIME
+Adéla\u00efde;1;PERS
+Eretry;1;PERS
+Le Perthuis des Vauds;1;PERS
+les Coutelier;1;PERS
+Roi-Louis;1;PERS
+"""Sa""";1;FP
+Alors;1;FP
+Au-dehors;1;FP
+Aucune;1;FP
+Autrefois;1;FP
+Barbes-de-capucin;1;FP
+Cet;1;FP
+Chicorées;1;FP
+Chinois;1;FP
+Cigogne;1;FP
+Comme;1;FP
+Décembre;1;TIME
+En;1;FP
+Encaissée;1;FP
+Et;1;FP
+Garantis;1;FP
+Juste;1;FP
+La;1;FP
+Laitues;1;FP
+Le;1;FP
+Leur;1;FP
+Leurs;1;FP
+Normande;1;FP
+Pouvez;1;FP
+Quand;1;FP
+Restez;1;FP
+Romaines;1;FP
+Royales;1;FP
+Sa;1;FP
+Sauvage;1;AMBIG
+Tenez;1;FP
+Toutes;1;FP
+Un;1;FP
+Viloise;1;FP
+ch\u00e2teau des Peuples;1;AMBIG
+Chambre-aux-Demoiselles;1;AMBIG
+Cité;1;AMBIG
+Corniche;1;AMBIG
+Jardin;1;AMBIG
+Midi;1;AMBIG
+Mornes;1;AMBIG
+Palais-Royal;1;AMBIG
+Étouvent;4;VP
+Étretat;5;VP
+Évisa;2;VP
+Angleterre;3;VP
+Barville;4;VP
+Batteville;3;VP
+Corse;15;VP
+Fécamp;8;VP
+Goderville;8;VP
+Grèce...;2;VP
+hôtel de Normandie;2;VP
+Havre;4;VP
+la France;2;VP
+Le Havre;5;VP
+Londres;2;VP
+Méditerranée;3;VP
+Marseille;3;VP
+Normandie;3;VP
+Ota;4;VP
+Paris;13;VP
+pays de Caux;2;VP
+Rouen;9;VP
+rue du Sauvage;2;VP
+Sacré-Cœur;2;VP
+Tous;2;VP
+Vaucotte;2;VP
+Yport;13;VP
+Briseville;4;PERS
+Fourville;5;PERS
+Lison;6;PERS
+Cette;2;FP
+Des;4;FP
+Deux;2;FP
+L';2;FP
+Les;46;FP
+Ses;5;FP
+Une;7;FP
+Ciel;2;AMBIG
+Empire;2;AMBIG
+Le soleil;4;AMBIG
+Val;2;AMBIG
